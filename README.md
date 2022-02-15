@@ -2,8 +2,8 @@
 - I am a software/hardware/embedded systems engineering student. 
 - Currently attending Georgia Institute of Technology. 
 - Work Experience: 
-    1. Software Engineer Intern at GE Appliances
-    2. Software Engineer Intern at Sealed Air Corporation
+    1. Software Engineer Intern at Sealed Air Corporation
+    2. Software Engineer Intern at GE Appliances 
  - On-campus experience: 
     1. Technical Support Agent at Georgia Tech Enterprise Service Desk
     2. Director for Club Event Programming at Associated Students of Whatcom Community College (WCC)
