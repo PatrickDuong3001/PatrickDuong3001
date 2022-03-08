@@ -1,5 +1,5 @@
 - My name is Bao (Patrick) Duong.
-- I am a software/hardware/embedded systems engineering student. 
+- I am a software/software test/hardware/embedded systems engineering student. 
 - Currently attending Georgia Institute of Technology. 
 - Work Experience: 
     1. Software Test Engineer Intern at SAP
