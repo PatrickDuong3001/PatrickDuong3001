@@ -1,5 +1,5 @@
 # Hello!:wave: Welcome to my Git World!:earth_americas:
-My name is Bao (Patrick) Duong, and I am a computer engineering student:computer: at Georgia Tech:honeybee:. <br></br>
+My name is Bao (Patrick) Duong. I am a computer engineering:computer: student at Georgia Tech:honeybee:. <br></br>
 My expected graduation: May/2024.:mortar_board:
 ## Skills:muscle:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
