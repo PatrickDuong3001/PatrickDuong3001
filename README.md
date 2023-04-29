@@ -46,4 +46,6 @@ My expected graduation: May/2024.:mortar_board:
 ## GITrophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=PatrickDuong3001&row=1&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
 ## Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickDuong3001&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+
 ![stats](https://github-readme-stats.vercel.app/api?username=PatrickDuong3001&show_icons=true&theme=merko)
