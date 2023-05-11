@@ -1,4 +1,6 @@
-# Hello!:wave: Welcome to my Git World!:earth_americas:
+# Hello!:wave: Welcome to my Git World!<img src="https://github.com/PatrickDuong3001/PatrickDuong3001/blob/main/Earth.gif" width="35" height="35" />
+<img src="https://github.com/PatrickDuong3001/PatrickDuong3001/blob/main/hello%20world.gif" width="190" height="115"/>
+
 My name is Bao (Patrick) Duong. I am a computer engineering:computer: student at Georgia Tech:honeybee:. <br></br>
 My expected graduation: May/2024.:mortar_board:
 ## Skills:muscle:
