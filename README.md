@@ -1,8 +1,8 @@
-# Hello!:wave: Welcome to my Git World!<img src="https://github.com/PatrickDuong3001/PatrickDuong3001/blob/main/Earth.gif" width="35" height="35" />
-<img src="https://github.com/PatrickDuong3001/PatrickDuong3001/blob/main/hello%20world.gif" width="190" height="115"/>
+# Hello!<img src="https://github.com/PatrickDuong3001/PatrickDuong3001/blob/main/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966.gif" width="35" height="35" /> Welcome to my Git World!<img src="https://github.com/PatrickDuong3001/PatrickDuong3001/blob/main/Earth.gif" width="35" height="35" /><img src="https://github.com/PatrickDuong3001/PatrickDuong3001/blob/main/hello%20world.gif" width="190" height="115"/>
+My name is Bao (Patrick) Duong. I am a computer engineering:computer: student at Georgia Tech:honeybee:.
 
-My name is Bao (Patrick) Duong. I am a computer engineering:computer: student at Georgia Tech:honeybee:. <br></br>
 My expected graduation: May/2024.:mortar_board:
+
 ## Skills:muscle:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
