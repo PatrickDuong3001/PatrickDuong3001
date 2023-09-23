@@ -26,7 +26,7 @@ My expected graduation: May/2024.:mortar_board:
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ## Work Experience:office:
-    1. Software Test Automation Engineer Intern at SAP
+    1. Software Development Engineer in Test Intern at SAP
     2. Software Engineer Intern at Sealed Air Corporation
     3. Software Engineer Intern at GE Appliances
 ## Career Interests:key:
