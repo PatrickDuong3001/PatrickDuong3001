@@ -2,6 +2,8 @@
 <br> <br>
 My name is Bao (Patrick) Duong. I am a computer engineering:computer: student at Georgia Tech. 🐝👨‍💻
 
+Email: baophuc2000@gmail.com.
+
 My expected graduation: May/2024. :mortar_board:
 
 ## Skills :muscle:
