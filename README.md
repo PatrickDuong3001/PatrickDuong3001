@@ -1,10 +1,10 @@
 **HELLO!** <img src="https://github.com/PatrickDuong3001/PatrickDuong3001/blob/main/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966.gif" width="35" height="35" /> **WELCOME TO MY GIT WORLD!**<img src="https://github.com/PatrickDuong3001/PatrickDuong3001/blob/main/Earth.gif" width="35" height="35" />
 <br> <br>
-My name is Bao (Patrick) Duong. I am a computer engineering:computer: student at Georgia Tech:honeybee:.
+My name is Bao (Patrick) Duong. I am a computer engineering:computer: student at Georgia Tech. 🐝👨‍💻
 
-My expected graduation: May/2024.:mortar_board:
+My expected graduation: May/2024. :mortar_board:
 
-## Skills:muscle:
+## Skills :muscle:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -26,11 +26,21 @@ My expected graduation: May/2024.:mortar_board:
 ![Bamboo](https://a11ybadges.com/badge?logo=bamboo)
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-## Work Experience:office:
+![OpenGL](https://img.shields.io/badge/OpenGL-FFFFFF?style=for-the-badge&logo=opengl)
+![Socket](https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
+![Adafruit](https://img.shields.io/badge/adafruit-000000?style=for-the-badge&logo=adafruit&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
+![Virtual Box](https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
+![JIRA](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
+
+## Work Experience :office:
     1. Software Development Engineer in Test Intern at SAP
     2. Software Engineer Intern at Sealed Air Corporation
     3. Software Engineer Intern at GE Appliances
-## Career Interests:key:
+## Career Interests :key:
     1. Software Engineer in Test
     2. Software Test Automation Engineer
     3. DevOps Engineer 
@@ -40,7 +50,7 @@ My expected graduation: May/2024.:mortar_board:
     7. Site Reliability Engineer
     8. Hardware Engineer
     9. Support Engineer
-## On-campus Experience:school: 
+## On-campus Experience :school: 
     1. Technical Support Agent at Georgia Tech Enterprise Service Desk
     2. Director for Club Event Programming at Associated Students of Whatcom Community College (WCC)
     3. President of Phi Theta Kappa (Alpha Xi Nu Chapter)
