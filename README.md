@@ -13,6 +13,7 @@ Email: baophuc2000@gmail.com.
 ![Gazebo](https://img.shields.io/badge/%E2%9A%99%EF%B8%8F_Gazebo-C2410C?style=for-the-badge)
 ![YOLO](https://img.shields.io/badge/YOLO-111F68?style=for-the-badge&logo=ultralytics&logoColor=white)
 ![Voice Control](https://img.shields.io/badge/%F0%9F%97%A3_Voice_Control-C2410C?style=for-the-badge)
+![RViz](https://img.shields.io/badge/RViz-6D28D9?style=for-the-badge)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
