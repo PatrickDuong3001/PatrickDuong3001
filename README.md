@@ -43,15 +43,11 @@ My expected graduation: May/2024. :mortar_board:
     2. Software Engineer Intern at Sealed Air Corporation
     3. Software Engineer Intern at GE Appliances
 ## Career Interests :key:
-    1. Software Engineer in Test
-    2. Software Test Automation Engineer
-    3. DevOps Engineer 
-    4. Software Engineer
-    5. Embedded System Engineer
-    6. Digital Signal Processing Engineer
-    7. Site Reliability Engineer
-    8. Hardware Engineer
-    9. Support Engineer
+    1. Robotics Software Engineer
+    2. Embedded Systems Engineer
+    3. Firmware Engineer
+    4. Systems Engineer
+    5. Machine Learning / Applied Scientist
 ## On-campus Experience :school: 
     1. Technical Support Agent at Georgia Tech Enterprise Service Desk
     2. Director for Club Event Programming at Associated Students of Whatcom Community College (WCC)
@@ -59,9 +55,5 @@ My expected graduation: May/2024. :mortar_board:
     4. Co-Founder of WCC PUBG Mobile Club 
     5. Peer Mentor at WCC Engineering Program
     6. WCC Student Senator
-## GITrophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=PatrickDuong3001&row=1&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
 ## Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickDuong3001&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
-
-![stats](https://github-readme-stats.vercel.app/api?username=PatrickDuong3001&show_icons=true&theme=merko)
